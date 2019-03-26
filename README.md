@@ -18,7 +18,7 @@ Lab Instruments
  Quantity (2) + 1 set wheels.
  https://store.flitetest.com/flite-test-mighty-mini-mustang-electric-airplane-kit-622mm-flt-1033/p673697
  Quantity (1) + 1 set wheels.
- https://store.flitetest.com/flite-test-mighty-mini-speedster-speed-build-electric-airplane-kit-527mm-flt-1017  /p673681
+ https://store.flitetest.com/flite-test-mighty-mini-speedster-speed-build-electric-airplane-kit-527mm-flt-1017/p673681
  https://store.flitetest.com/flite-test-mighty-mini-pun-electric-jet-airplane-kit-368mm-flt-1024/p673688 (1 ,  optional)
 
 6. Motors, propellers, motor controllers:
