@@ -9,9 +9,9 @@ Lab Instruments
 
 3. Drill machine (optional) https://www.amazon.ca/Tacklife-Cordless-Accessories-Lithium-Ion-Wear-Resistant/dp/B078HGCHSY/ref=sr_1_9?crid=3BSALNNOC9VNI&keywords=drill%2Bmachine&qid=1553550847&s=hi&sprefix=drill%2Bma%2Ckitchen%2C283&sr=1-9&th=1
 
-4. Transmitter 
+4. Transmitter :
  https://hobbyking.com/en_us/turnigy-9x-9ch-transmitter-w-module-ia8-receiver-mode-2-afdhs-2a-system.html
- + 
+ and
  https://www.amazon.ca/Energizer-Batteries-Battery-Alkaline-E91BP-24/dp/B004U429AQ/ref=sr_1_6?keywords=AA+battery&qid=1553551235&s=gateway&sr=8-6 
 
 5. Frame :
