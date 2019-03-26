@@ -38,7 +38,7 @@ and
  https://www.banggood.com/APM-Power-Module-with-5_3V-DC-BEC-Available-with-T-or-XT60-p-1035032.html?rmmds=detail-top-buytogether-auto&ID=510961&cur_warehouse=CN
 
 10. Arducopter:
- https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA
- or 
- https://www.banggood.com/MINI-APM-PRO-Flight-Controller-Upgraded-from-APM2_6-Open-Source-Hardware-p-975909.html?rmmds=search&cur_warehouse=CN
+ https://www.amazon.com/APM2-8-ArduPilot-Controller-Telemetry-RC150/dp/B016EQQPRA (preferrable)
+ 
+ https://www.banggood.com/MINI-APM-PRO-Flight-Controller-Upgraded-from-APM2_6-Open-Source-Hardware-p-975909.html?rmmds=search&cur_warehouse=CN (optional for 2nd aircraft)
 
