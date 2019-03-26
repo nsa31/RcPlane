@@ -1,4 +1,19 @@
 RSC
+################
+frame
+esc controller
+brushless motor
+servo motors
+flight controllers
+radio controller > 6 channels
+RF module
+jumper wires, connecting wires
+soldering machine
+glu gun
+ties
+small drill (optional)
+nut bolts(optional)
+
 
 ################
 Ready made :
@@ -25,3 +40,25 @@ https://dev.px4.io/en/airframes/airframe_reference.html
 Items:
 https://hobbyking.com/en_us/h-king-bonsai-ii-epp-wing-600mm-24-yellow-kit.html
 https://store.mrobotics.io/category-s/124.htm
+
+
+
+#################
+
+
+Mini Plane
+https://youtu.be/ljiE8mmMXe8
+
+foam:
+anti cutter
+straw
+glu gun
+propeller
+
+Transmitter, Receiver 2 Channel
+- 2x propeller reversible
+- 2x Motor coreless 6x14mm
+- 1x Pin lipo 3,7v 150mah,
+
+
+#####
