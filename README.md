@@ -43,3 +43,6 @@ and
  https://www.banggood.com/MINI-APM-PRO-Flight-Controller-Upgraded-from-APM2_6-Open-Source-Hardware-p-975909.html?rmmds=search&cur_warehouse=CN (optional for 2nd aircraft)
 
 11. Jumper wire: https://www.amazon.ca/120pcs-Multicolored-Breadboard-Arduino-raspberry/dp/B01LZF1ZSZ/ref=sr_1_5?keywords=Jumper+wire&qid=1553636833&s=gateway&sr=8-5
+
+12. Drone with SDK
+https://store.dji.com/product/tello?vid=38421
