@@ -45,12 +45,9 @@ not Shipped
 8. Lipo Charger:
   https://hobbyking.com/en_us/imax-b6ac-v2-professional-balance-charger-discharger.html 
 
-
 9. Power module:
  https://www.banggood.com/Power-Distribution-Board-PDB-with-T-Plug-XT60-Plug-for-APM-PX4-Flight-Controller-RC-Drone-p-1419944.html?rmmds=detail-left-hotproducts__8&ID=510964&cur_warehouse=CN
-and
- https://www.banggood.com/APM-Power-Module-with-5_3V-DC-BEC-Available-with-T-or-XT60-p-1035032.html?rmmds=detail-top-buytogether-auto&ID=510961&cur_warehouse=CN
-
+ 
 12. Drone with SDK
 https://store.dji.com/product/tello?vid=38421
   
