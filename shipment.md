@@ -40,9 +40,9 @@ not Shipped
  https://store.flitetest.com/hq-prop-6x3-propeller-black-2-hq-p010506302/p451307 (2)
 
 7. Batteries:
-  https://store.flitetest.com/tattu-3s-lipo-battery-75c-11.1v-850mah-tat-75c-850-3s1p-xt30/p635612 (2)
-or same link on amazon
-https://www.amazon.ca/Tattu-850mAh-Battery-Racing-Quadcopters/dp/B07218SB7L/ref=sr_1_fkmrnull_1_sspa?keywords=tattu+3s+75c&qid=1556834831&s=toys&sr=1-1-fkmrnull-spons&psc=1 (2)
+https://www.amazon.ca/Tattu-850mAh-Battery-Racing-Quadcopters/dp/B07218SB7L/ref=sr_1_fkmrnull_1_sspa?keywords=tattu+3s+75c&qid=1556834831&s=toys&sr=1-1-fkmrnull-spons&psc=1 (1)
+ 
+ https://www.amazon.ca/Tattu-Battery-1300mAh-11-1V-Airplane/dp/B013I9SYC0/ref=pd_sbs_21_1/146-5297485-1845133?_encoding=UTF8&pd_rd_i=B013I9SYC0&pd_rd_r=a845765a-6d26-11e9-9b7e-7920967f871b&pd_rd_w=yddmg&pd_rd_wg=bRIqv&pf_rd_p=5dcda75b-8643-4da3-9bb1-5c0233790500&pf_rd_r=D9J2Y8N845VEREZ9S4HF&psc=1&refRID=D9J2Y8N845VEREZ9S4HF (1)
  
 8. Lipo Charger:
   https://hobbyking.com/en_us/imax-b6ac-v2-professional-balance-charger-discharger.html 
