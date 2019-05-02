@@ -41,6 +41,8 @@ not Shipped
 
 7. Batteries:
   https://store.flitetest.com/tattu-3s-lipo-battery-75c-11.1v-850mah-tat-75c-850-3s1p-xt30/p635612 (2)
+or same link on amazon
+https://www.amazon.ca/Tattu-850mAh-Battery-Racing-Quadcopters/dp/B07218SB7L/ref=sr_1_fkmrnull_1_sspa?keywords=tattu+3s+75c&qid=1556834831&s=toys&sr=1-1-fkmrnull-spons&psc=1 (2)
  
 8. Lipo Charger:
   https://hobbyking.com/en_us/imax-b6ac-v2-professional-balance-charger-discharger.html 
@@ -50,5 +52,7 @@ not Shipped
  
 12. Drone with SDK
 https://store.dji.com/product/tello?vid=38421
+
+13. https://www.amazon.ca/OliYin-Connector-Adapter-Turnigy-1-96inch/dp/B073Z77473/ref=sr_1_2?keywords=xt30+to+xt60&qid=1556833829&s=gateway&sr=8-2
   
 
