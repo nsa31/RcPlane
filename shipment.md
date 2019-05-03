@@ -57,4 +57,4 @@ https://store.dji.com/product/tello?vid=38421
 
 14. https://www.amazon.ca/nRF24L01-PA-LNA-Plus-Version/dp/B06VT3WS66/ref=sr_1_2_sspa?gclid=EAIaIQobChMI3bGVhYCA4gIViIbACh05SA9sEAAYASAAEgIhEvD_BwE&hvadid=208414708765&hvdev=c&hvlocphy=9000784&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=16885888899700033514&hvtargid=kwd-297834768694&hydadcr=20847_9352752&keywords=nrf24l01&qid=1556908487&s=gateway&sr=8-2-spons&psc=1#customerReviews (2)
   
-
+15. https://www.amazon.ca/TOPELEK-Heating-Melting-Projects-Repairs/dp/B01N9QHAWH/ref=sr_1_1?keywords=glu+gun&qid=1556920939&s=gateway&sr=8-1
