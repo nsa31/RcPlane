@@ -54,5 +54,7 @@ https://www.amazon.ca/Tattu-850mAh-Battery-Racing-Quadcopters/dp/B07218SB7L/ref=
 https://store.dji.com/product/tello?vid=38421
 
 13. https://www.amazon.ca/OliYin-Connector-Adapter-Turnigy-1-96inch/dp/B073Z77473/ref=sr_1_2?keywords=xt30+to+xt60&qid=1556833829&s=gateway&sr=8-2
+
+14. https://www.amazon.ca/nRF24L01-PA-LNA-Plus-Version/dp/B06VT3WS66/ref=sr_1_2_sspa?gclid=EAIaIQobChMI3bGVhYCA4gIViIbACh05SA9sEAAYASAAEgIhEvD_BwE&hvadid=208414708765&hvdev=c&hvlocphy=9000784&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=16885888899700033514&hvtargid=kwd-297834768694&hydadcr=20847_9352752&keywords=nrf24l01&qid=1556908487&s=gateway&sr=8-2-spons&psc=1#customerReviews (2)
   
 
